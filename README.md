@@ -1,4 +1,4 @@
-# WordPress_Plugin
-WordPress 外掛作品集  
+# WordPress_Plugin  
+
 
 Here are WordPress Plugin profile
